@@ -1,3 +1,4 @@
+![ScreenShot](https://github.com/JamesAjadi/tic-tac-toe-react/assets/85445911/39412a16-a67b-4af9-91b2-765abc0236e7)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
